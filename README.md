@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @i-moreno
+- 👋 Hi, I’m Carlos
 - 👀 I’m interested in e-commerce, JavaScript and Python
 - 🌱 I’m currently learning Shopify App development and AWS 
 - 💞️ I’m looking to collaborate on any solution related with e-commerce and make some fun with it
