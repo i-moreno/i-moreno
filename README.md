@@ -1,8 +1,7 @@
 
-- 👋 Hey there, I’m Carlos! 
-- 🌍 I’m currently working from home and exploring different parts of the world.
-- 🎨 Every day, I get to craft software and design beautiful UX/UI for a myriad of projects. 
-- 💻 Got a fun project in mind? I’d love to hear about it!
+- 🌍 Exploring different parts of this and other worlds
+- 🎨 Good taste for those bad taste task.
+- 💻 Got a fun project in mind? 
 - ✉️ Drop me a line @cc_morenog. 
 
 <!---
