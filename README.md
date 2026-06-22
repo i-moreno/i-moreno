@@ -1,4 +1,4 @@
-# Hi, I'm Carlos 👋
+# Carlos Moreno
 
 ### Senior Software Engineer · Production AI & LLM Systems
 
@@ -30,10 +30,10 @@ I design and ship LLM-powered systems end to end: **multi-agent orchestration, M
 
 ### Tech I reach for
 
-**AI/LLM:** LLM apps · multi-agent orchestration · MCP · RAG · LiteLLM · pgvector
-**Frontend:** React · React Native · TypeScript · Zustand · Tailwind
-**Backend:** Node.js · Python · Java · GraphQL · PostgreSQL · Redis
-**Cloud / DevOps:** AWS (Lambda, S3, CloudFormation) · Docker · CI/CD
+- **AI/LLM:** LLM apps · multi-agent orchestration · MCP · RAG · LiteLLM · pgvector
+- **Frontend:** React · React Native · TypeScript · Zustand · Tailwind
+- **Backend:** Node.js · Python · Java · GraphQL · PostgreSQL · Redis
+- **Cloud / DevOps:** AWS (Lambda, S3, CloudFormation) · Docker · CI/CD
 
 ---
 
