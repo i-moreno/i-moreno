@@ -43,4 +43,4 @@ I design and ship LLM-powered systems end to end: **multi-agent orchestration, M
 
 If you've shipped an AI feature that's flaky in production, or you're about to build one and want it reliable from day one — let's talk.
 
-📩 morenocarlos9973@gmail.com · [LinkedIn](https://linkedin.com/in/juan-carlos-m-2b7616b6/)
+📩 morenocarlos9973@gmail.com
