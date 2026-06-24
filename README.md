@@ -20,11 +20,11 @@ I design and ship LLM-powered systems end to end: **multi-agent orchestration, M
 
 **🧠 Sofia** — a multi-agent system that autonomously plans and writes software.
 `Python` · `LiteLLM` · `pgvector` · `PostgreSQL`
-→ [repo](https://github.com/your-username/sofia)
+→ [repo](https://github.com/i-moreno/sofia)
 
 **💸 Midas** — a local-first personal finance app, shipped end to end.
 `TypeScript` · `React Native` · `Expo` · `Drizzle ORM`
-→ [repo](https://github.com/your-username/midas)
+→ [repo](https://github.com/i-moreno/denaro)
 
 ---
 
@@ -39,8 +39,6 @@ I design and ship LLM-powered systems end to end: **multi-agent orchestration, M
 
 ### Let's work together
 
-🕐 Based in Mexico — **CST (UTC−6), full US business-hours overlap.**
 
 If you've shipped an AI feature that's flaky in production, or you're about to build one and want it reliable from day one — let's talk.
-
 📩 morenocarlos9973@gmail.com
